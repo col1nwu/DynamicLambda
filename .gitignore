@@ -1,2 +1,3 @@
-vent
-__pycache__
+vent/
+__pycache__/
+.*/
