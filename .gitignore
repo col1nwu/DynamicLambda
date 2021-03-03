@@ -1,3 +1,5 @@
+# Ignore these files and dir
+
 vent/
 __pycache__/
 .DS_Store
